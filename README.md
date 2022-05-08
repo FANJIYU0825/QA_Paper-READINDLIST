@@ -1,4 +1,6 @@
 # QA_Paper-READINDLIST
+## Stanford LAB WED
+[Stanford NLPLAD](https://nlp.stanford.edu/pubs/)
 ## Retrieval
 [Pyserini: An Easy-to-Use Python Toolkit to Support Replicable
 IR Research with Sparse and Dense Representations](https://arxiv.org/pdf/2102.10073.pdf)
